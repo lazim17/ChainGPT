@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": "../../../../solana-extension"
+	},
+	{
+		"path": "../../../sol_ext"
+	},
+	{
+		"path": ".."
+	}
+],
+  "settings": {}
+}
