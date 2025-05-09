@@ -23,21 +23,25 @@ https://github.com/user-attachments/assets/62f0587a-23d3-4ba2-a575-56f3fa643959
 AI-Powered Transaction Explanations
 
 Converts complex Solana instructions into clear, understandable language
-Explains what will happen if you sign: "This transaction will swap 10 SOL for approximately 134.5 USDC using Jupiter aggregator"
 
 ### Security Analysis
 
 Program Verification: Checks if the programs being called are widely trusted
 
 Address Screening: Flags known malicious addresses or suspicious patterns
+
 Permission Alerts: Warns about transactions granting extensive permissions
+
 Risk Assessment: Provides an overall risk score for each transaction
 
 ### Technical Features
 
 Lightweight browser extension with minimal overhead
+
 Works with popular Solana wallets (Phantom, Solflare, etc.)
+
 Privacy-focused - your transaction data stays local or is sent securely
+
 Custom trusted/blocked address lists
 
 ### For Developers
