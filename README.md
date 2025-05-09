@@ -1,8 +1,6 @@
 ### ChainGPT - Solana Transaction Explainer & Security Guard
 
-<div align="center">
 Understand what you're signing before you sign it.
-</div>
 
 ### Problem Statement
 
@@ -19,9 +17,7 @@ Alerts you to potential risks before signing
 
 ### Demo
 
-<div align="center">
 https://github.com/user-attachments/assets/29b349f8-6395-4c50-9d49-55ae85268b3f
-</div>
 
 ### Key Features
 AI-Powered Transaction Explanations
@@ -32,6 +28,7 @@ Explains what will happen if you sign: "This transaction will swap 10 SOL for ap
 ### Security Analysis
 
 Program Verification: Checks if the programs being called are widely trusted
+
 Address Screening: Flags known malicious addresses or suspicious patterns
 Permission Alerts: Warns about transactions granting extensive permissions
 Risk Assessment: Provides an overall risk score for each transaction
@@ -62,7 +59,6 @@ npm run build
 # 1. Go to chrome://extensions
 # 2. Enable Developer Mode
 # 3. Click "Load unpacked"
-Tech Stack
 ```
 
 ### Tech Stack
@@ -82,14 +78,12 @@ AI Integration: LLM API
 [ ] Community-driven security database  
 [ ] Advanced risk scoring algorithm  
 
-<div align="center">
 ### Made with love for the Solana community
   
 ### Support This Project
 
 If you find ChainGPT valuable, please consider supporting its development:
 SOL Address: D3XVQroYdXEEzNLRmPGUiZZzez6bAkp2xoPJ1Xy8K8xK
-</div>
 
 
 
