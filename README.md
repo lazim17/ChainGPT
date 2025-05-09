@@ -68,7 +68,9 @@ npm run build
 ### Tech Stack
 
 Frontend: TypeScript, React
+
 Transaction Parsing: @solana/web3.js
+
 AI Integration: LLM API
 
 ### Roadmap
