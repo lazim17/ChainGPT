@@ -17,7 +17,7 @@ Alerts you to potential risks before signing
 
 ### Demo
 
-https://github.com/user-attachments/assets/29b349f8-6395-4c50-9d49-55ae85268b3f
+https://github.com/user-attachments/assets/62f0587a-23d3-4ba2-a575-56f3fa643959
 
 ### Key Features
 AI-Powered Transaction Explanations
