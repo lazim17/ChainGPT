@@ -5,14 +5,21 @@ Understand what you're signing before you sign it.
 ### Problem Statement
 
 Web3 users frequently sign transactions without fully understanding what they're approving. This lack of transparency has led to countless phishing attacks and scams in the Solana ecosystem.
+
 ChainGPT solves this by translating complex blockchain operations into plain English before you commit.
-What ChainGPT Does
+
+### What ChainGPT Does
+
 ChainGPT is a browser extension that interposes itself between dApps and your wallet. When a transaction is about to be signed:
 
 Intercepts the unsigned transaction data
+
 Analyzes the programs, instructions, and addresses involved
+
 Verifies against databases of trusted and malicious entities
+
 Generates a human-readable explanation using AI
+
 Alerts you to potential risks before signing
 
 ### Demo
@@ -89,6 +96,7 @@ AI Integration: LLM API
 ### Support This Project
 
 If you find ChainGPT valuable, please consider supporting its development:
+
 SOL Address: D3XVQroYdXEEzNLRmPGUiZZzez6bAkp2xoPJ1Xy8K8xK
 
 
